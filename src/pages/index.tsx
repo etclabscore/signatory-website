@@ -43,7 +43,7 @@ const MyApp: React.FC = () => {
                     <Typography variant="h6" gutterBottom color="primary">→ Getting Started</Typography>
                   </Box>
                   <Box>
-                    <Typography variant="h6" gutterBottom>Step-by-step guide to creating your first signed message.</Typography>
+                    <Typography variant="h6" gutterBottom>Step-by-step guide to creating an account and signing a message.</Typography>
                   </Box>
                 </Grid>
               </Link>
