@@ -34,22 +34,16 @@ const MyApp: React.FC = () => {
             <Grid item container direction="column" style={{ width: "230px" }}>
               <Link
                 component={(props: { children: any }) => (
-                  <GatsbyLink to={"/beginners"} style={{ textDecoration: "none", color: grey[500] }} activeStyle={{ color: grey[500] }}>
+                  <GatsbyLink to={"/getting-started"} style={{ textDecoration: "none", color: grey[500] }} activeStyle={{ color: grey[500] }}>
                     {props.children}
                   </GatsbyLink>
                 )}>
                 <Grid>
                   <Box>
-                    <Typography variant="h6" gutterBottom color="primary">→ Beginners</Typography>
+                    <Typography variant="h6" gutterBottom color="primary">→ Getting Started</Typography>
                   </Box>
                   <Box>
-                    <Typography variant="caption" color="secondary">- New to Signatory?</Typography>
-                  </Box>
-                  <Box>
-                    <Typography variant="caption">- What is Signatory?</Typography>
-                  </Box>
-                  <Box>
-                    <Typography variant="caption">- Why should I care?</Typography>
+                    <Typography variant="h6" gutterBottom>Step-by-step guide to creating your first signed message.</Typography>
                   </Box>
                 </Grid>
               </Link>
@@ -58,7 +52,7 @@ const MyApp: React.FC = () => {
               <Link
                 component={(props: { children: any }) => (
                   <GatsbyLink
-                    to={"/learn"}
+                    to={"/topic-guides"}
                     style={{ textDecoration: "none", color: grey[500] }}
                     activeStyle={{ color: grey[500] }}
                   >
@@ -67,13 +61,10 @@ const MyApp: React.FC = () => {
                 )}>
                 <Grid>
                   <Box>
-                    <Typography variant="h6" gutterBottom color="primary">→ Learn</Typography>
+                    <Typography variant="h6" gutterBottom color="primary">→ Topic Guides</Typography>
                   </Box>
                   <Box>
-                    <Typography variant="caption">- Beginner Resources</Typography>
-                  </Box>
-                  <Box>
-                    <Typography variant="caption">- How Signatory works</Typography>
+                    <Typography variant="caption">Topic guides discuss high level concepts and key topics</Typography>
                   </Box>
                 </Grid>
               </Link>

@@ -20,6 +20,10 @@ module.exports = {
         link: "/getting-started"
       },
       {
+        name: "Topic Guides",
+        link: "/topic-guides"
+      },
+      {
         name: "API Documentation",
         link: "/api-documentation"
       }
