@@ -9,7 +9,7 @@ const MonacoWebpackPlugin = require("monaco-editor-webpack-plugin");
 const $RefParser = require("json-schema-ref-parser");
 const fetch = require("node-fetch");
 
-const OpenRPCURL = "https://raw.githubusercontent.com/etclabscore/signatory/feat/init/openrpc.json?token=AACZAFQFECGNF6PGOTFTZ7C6HWUC6"
+const OpenRPCURL = "https://raw.githubusercontent.com/etclabscore/signatory/master/openrpc.json";
 
 exports.sourceNodes = async ({
   actions: { createNode },

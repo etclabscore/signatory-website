@@ -11,7 +11,7 @@ module.exports = {
     author: "",
     menuLinks: [
       {
-        name: "home",
+        name: "Home",
         link: "/",
         ignoreNextPrev: true
       },
@@ -42,7 +42,7 @@ module.exports = {
         background_color: "#ffffff",
         theme_color: "#3f51b5",
         display: "minimal-ui",
-        icon: "src/images/gatsby-icon.png", // This path is relative to the root of the site.
+        icon: "src/images/signatory_logo.png", // This path is relative to the root of the site.
       },
     }
   ],
