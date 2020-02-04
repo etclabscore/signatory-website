@@ -1,3 +1,20 @@
+# 1.0.0 (2020-02-04)
+
+
+### Bug Fixes
+
+* **circleci:** bump node version to 12.14.1 ([672b226](https://github.com/etclabscore/signatory-website/commit/672b226b48e043dc78228a52603a7a3949b789a9))
+* **circleci:** remove cache ([22643a5](https://github.com/etclabscore/signatory-website/commit/22643a5d9db2a7ed848520504a7cbf7f14afef3a))
+* **package.json:** description + repo + bugs urls ([18cc644](https://github.com/etclabscore/signatory-website/commit/18cc64471a949230c4328d6e575c20bf16e0b61a))
+* **README:** add initial readme ([c64f695](https://github.com/etclabscore/signatory-website/commit/c64f695e89cf247ef39cb3e8a643474734dca3e4))
+* add signatory favicon ([3dfff91](https://github.com/etclabscore/signatory-website/commit/3dfff9196095f75cd891df2a7c534347d6e69a7a))
+* signatory favicon ([038b540](https://github.com/etclabscore/signatory-website/commit/038b5404b141897ba9188257859011afc2886b5b))
+
+
+### Features
+
+* Initial Commit ([9450543](https://github.com/etclabscore/signatory-website/commit/945054345900d22b54802a20e43c6912b22d34ac))
+
 ## [1.1.4](https://github.com/etclabscore/pristine-typescript-gatsby-react-material-ui/compare/1.1.3...1.1.4) (2020-01-22)
 
 
