@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/etclabscore/signatory-website/compare/1.0.1...1.0.2) (2020-02-04)
+
+
+### Bug Fixes
+
+* getting started command ([8924cec](https://github.com/etclabscore/signatory-website/commit/8924cec4bdbcc87c8a7c665d6ac49350cfd32b01))
+* iframes ([80c1d91](https://github.com/etclabscore/signatory-website/commit/80c1d91307007ff1c82d9dfcebb7d1f723d21689))
+
 ## [1.0.1](https://github.com/etclabscore/signatory-website/compare/1.0.0...1.0.1) (2020-02-04)
 
 
