@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/etclabscore/signatory-website/compare/1.0.0...1.0.1) (2020-02-04)
+
+
+### Bug Fixes
+
+* path prefixes + CNAME ([afab9d6](https://github.com/etclabscore/signatory-website/commit/afab9d60d04cb80d9898b1413e04aa1605c63591))
+
 # 1.0.0 (2020-02-04)
 
 
