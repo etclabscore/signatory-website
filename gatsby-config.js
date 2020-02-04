@@ -1,7 +1,7 @@
 const emoji = require("remark-emoji");
 
 module.exports = {
-  pathPrefix: "/pristine-typescript-gatsby-react-material-ui",
+  pathPrefix: "",
   siteMetadata: {
     title: "Signatory",
     description: "",
