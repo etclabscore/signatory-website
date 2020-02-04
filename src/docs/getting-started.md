@@ -9,7 +9,7 @@ npm install -g @etclabscore/signatory
 ## Run the server
 
 ```
-etclabscore-signatory
+signatory
 // running at 8002
 ```
 
