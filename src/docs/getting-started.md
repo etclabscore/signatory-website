@@ -1,6 +1,8 @@
 # Getting Started
 
-## Install Signatory Server
+Signatory requires Node.js. [Install](https://nodejs.org/en/download/package-manager/#nvm) it first.
+
+## Install Signatory via NPM
 
 ```
 npm install -g @etclabscore/signatory
