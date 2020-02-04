@@ -1,7 +1,7 @@
 {
   "name": "signatory-website",
   "private": true,
-  "description": "A pristine starting point for typescript, gatsby, and material-ui",
+  "description": "The signatory.dev website",
   "version": "0.0.0-development",
   "dependencies": {
     "@etclabscore/gatsby-theme-pristine": "^1.1.4",
@@ -70,9 +70,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/etclabscore/pristine-typescript-gatsby-react-material-ui"
+    "url": "https://github.com/etclabscore/signatory-website"
   },
   "bugs": {
-    "url": "https://github.com/etclabscore/pristine-typescript-gatsby-react-material-ui/issues"
+    "url": "https://github.com/etclabscore/signatory-website/issues"
   }
 }
