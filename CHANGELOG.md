@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/etclabscore/signatory-website/compare/1.0.2...1.0.3) (2020-02-04)
+
+
+### Bug Fixes
+
+* add topic guides + reogranize index ([406758e](https://github.com/etclabscore/signatory-website/commit/406758e39ae0aa1297f69a1b14a6655d81536b07))
+
 ## [1.0.2](https://github.com/etclabscore/signatory-website/compare/1.0.1...1.0.2) (2020-02-04)
 
 
