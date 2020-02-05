@@ -1,3 +1,11 @@
+## [1.0.4](https://github.com/etclabscore/signatory-website/compare/1.0.3...1.0.4) (2020-02-05)
+
+
+### Bug Fixes
+
+* add nodejs install link ([a79148f](https://github.com/etclabscore/signatory-website/commit/a79148f62826af59dc7c21b177d911915bd6b0b9))
+* getting started port ([db152d6](https://github.com/etclabscore/signatory-website/commit/db152d6f2c349fcd7ff8e03bdbe298d51c7cd173))
+
 ## [1.0.3](https://github.com/etclabscore/signatory-website/compare/1.0.2...1.0.3) (2020-02-04)
 
 
