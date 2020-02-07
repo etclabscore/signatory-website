@@ -7,3 +7,4 @@
 
 - [Private Keys](https://ethereumclassic.org/blog/2017-06-17-private-keys/) - *2017.06.16 Christian Seberino*
 - [BIP39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki)
+- [SignTypedData (EIP712)](https://eips.ethereum.org/EIPS/eip-712)
