@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/etclabscore/signatory-website/compare/1.0.4...1.0.5) (2020-02-07)
+
+
+### Bug Fixes
+
+* **topic guides:** add SignTypedData EIP link ([659bfdd](https://github.com/etclabscore/signatory-website/commit/659bfddf5361f3dee7bf76846d26a3bd3bc6756a))
+
 ## [1.0.4](https://github.com/etclabscore/signatory-website/compare/1.0.3...1.0.4) (2020-02-05)
 
 
