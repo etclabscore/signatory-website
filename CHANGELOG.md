@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/etclabscore/signatory-website/compare/1.0.5...1.0.6) (2020-02-12)
+
+
+### Bug Fixes
+
+* **getting started:** chainid should be hex ([8150036](https://github.com/etclabscore/signatory-website/commit/8150036d3262a022faa51cfc9578effbf52508e6))
+
 ## [1.0.5](https://github.com/etclabscore/signatory-website/compare/1.0.4...1.0.5) (2020-02-07)
 
 
