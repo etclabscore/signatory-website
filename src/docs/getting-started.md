@@ -1,4 +1,12 @@
+import signatoryvid from "../assets/signatory-getting-started.mp4"
+
 # Getting Started
+
+<center>
+  <video controls height="200px">
+    <source src={signatoryvid} type="video/mp4" />
+  </video>
+</center>
 
 Signatory requires Node.js. [Install](https://nodejs.org/en/download/package-manager/#nvm) it first.
 
@@ -23,8 +31,6 @@ info: Signatory started on 1999 {"service":"Signatory","context":"startSignatory
 you can do this by creating a JSON-RPC request to the `createAccount` method
 
 <iframe src="https://inspector.open-rpc.org/?url=http://localhost:1999&request[jsonrpc]=2.0&request[method]=createAccount&request[params][0][name]=act&request[params][0][passphrase]=baz" style="border: none; width: 100%; height: 300px;"/>
-
-
 
 ## Sign a message
 
