@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/etclabscore/signatory-website/compare/1.0.7...1.0.8) (2020-02-12)
+
+
+### Bug Fixes
+
+* video not working on ios ([8337093](https://github.com/etclabscore/signatory-website/commit/8337093369c7e68b26a438793a20d7dd7cb7e708))
+
 ## [1.0.7](https://github.com/etclabscore/signatory-website/compare/1.0.6...1.0.7) (2020-02-12)
 
 
