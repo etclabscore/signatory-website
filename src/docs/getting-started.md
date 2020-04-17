@@ -30,13 +30,13 @@ info: Signatory started on 1999 {"service":"Signatory","context":"startSignatory
 ## Create your first account
 you can do this by creating a JSON-RPC request to the `createAccount` method
 
-<iframe src="https://inspector.open-rpc.org/?url=http://localhost:1999&request[jsonrpc]=2.0&request[method]=createAccount&request[params][0][name]=act&request[params][0][passphrase]=baz&request[id]=0" style="border: none; width: 100%; height: 300px;"/>
+<iframe src="https://inspector.open-rpc.org/?url=http://localhost:1999&request[jsonrpc]=2.0&request[method]=createAccount&request[params][0][name]=act&request[params][0][passphrase]=baz&request[id]=0" style="border: none; width: 100%; height: 350px;"/>
 
 ## Sign a message
 
 First use `eserialize` to convert a string to hex:
 
-<iframe src="https://eserialize.com/?input=string&output=hex&value=hello%20world" style="border: none; width: 100%; height: 300px;" />
+<iframe src="https://eserialize.com/?input=string&output=hex&value=hello%20world" style="border: none; width: 100%; height: 400px;" />
 
 for example `hello world` produces `0x68656c6c6f20776f726c64`.
 
