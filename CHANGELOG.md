@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/etclabscore/signatory-website/compare/1.0.8...1.0.9) (2020-04-17)
+
+
+### Bug Fixes
+
+* getting-started request id + heights ([0e073b6](https://github.com/etclabscore/signatory-website/commit/0e073b6d4c0e4fa87117e1e5f70e88f418b4d40e))
+
 ## [1.0.8](https://github.com/etclabscore/signatory-website/compare/1.0.7...1.0.8) (2020-02-12)
 
 
